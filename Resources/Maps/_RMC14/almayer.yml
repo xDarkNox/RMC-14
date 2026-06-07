@@ -59724,7 +59724,7 @@ entities:
     - type: Transform
       pos: 100.439445,-41.409843
       parent: 1
-- proto: CMDropshipDestination
+- proto: CMDropshipDestinationNormandy
   entities:
   - uid: 18088
     components:
@@ -59733,6 +59733,8 @@ entities:
     - type: Transform
       pos: 57.5,-58.5
       parent: 1
+- proto: CMDropshipDestinationAlamo
+  entities:
   - uid: 18209
     components:
     - type: MetaData
